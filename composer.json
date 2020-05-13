@@ -1,0 +1,14 @@
+{
+	"name": "Miadote",
+	"description": "Site com objetivo de facilitar a adoção de gatos e cachorros.",
+	"authors": [
+		{
+			"name": "Lilian Kolodziey",
+			"email": "lilian.kldz@gmail.com"
+		}
+	],
+    "require": {
+        "twbs/bootstrap": "4.0.0",
+        "components/jquery": "3.2.1"
+    }
+}
